@@ -1,35 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/NOAA-quarto-book-main/index.html</loc>
+    <lastmod>2025-07-29T18:48:30.969Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/NOAA-quarto-book-main/content/rendering.html</loc>
+    <lastmod>2025-07-29T18:48:30.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/NOAA-quarto-book-main/content/figures_and_tables.html</loc>
+    <lastmod>2025-07-29T18:48:30.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/NOAA-quarto-book-main/content/references.html</loc>
+    <lastmod>2025-07-29T18:48:30.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/NOAA-quarto-book-main/content/publishing.html</loc>
+    <lastmod>2025-07-29T18:48:30.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/NOAA-quarto-book-main/content/acknowledgements.html</loc>
+    <lastmod>2025-07-29T18:48:30.965Z</lastmod>
+  </url>
+  <url>
     <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/index.html</loc>
-    <lastmod>2025-07-29T18:43:01.247Z</lastmod>
+    <lastmod>2025-07-29T18:48:30.970Z</lastmod>
   </url>
   <url>
     <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/content/rmarkdown.html</loc>
-    <lastmod>2025-07-29T18:43:01.247Z</lastmod>
+    <lastmod>2025-07-29T18:48:30.970Z</lastmod>
   </url>
   <url>
     <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/content/customizing.html</loc>
-    <lastmod>2025-07-29T18:43:01.247Z</lastmod>
+    <lastmod>2025-07-29T18:48:30.970Z</lastmod>
   </url>
   <url>
     <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/content/add-content.html</loc>
-    <lastmod>2025-07-29T18:43:01.247Z</lastmod>
+    <lastmod>2025-07-29T18:48:30.970Z</lastmod>
   </url>
   <url>
     <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/content/acknowledgements.html</loc>
-    <lastmod>2025-07-29T18:43:01.246Z</lastmod>
+    <lastmod>2025-07-29T18:48:30.970Z</lastmod>
   </url>
   <url>
     <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/content/publishing.html</loc>
-    <lastmod>2025-07-29T18:43:01.247Z</lastmod>
+    <lastmod>2025-07-29T18:48:30.970Z</lastmod>
   </url>
   <url>
     <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/content/code.html</loc>
-    <lastmod>2025-07-29T18:43:01.247Z</lastmod>
+    <lastmod>2025-07-29T18:48:30.970Z</lastmod>
   </url>
   <url>
     <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/content/rendering.html</loc>
-    <lastmod>2025-07-29T18:43:01.247Z</lastmod>
+    <lastmod>2025-07-29T18:48:30.970Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/NOAA-quarto-book-main/images/Readme.html</loc>
+    <lastmod>2025-07-29T18:48:30.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/NOAA-quarto-book-main/content/add-content.html</loc>
+    <lastmod>2025-07-29T18:48:30.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/NOAA-quarto-book-main/content/customizing.html</loc>
+    <lastmod>2025-07-29T18:48:30.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/NOAA-quarto-book-main/content/code.html</loc>
+    <lastmod>2025-07-29T18:48:30.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/NOAA-quarto-book-main/content/setup.html</loc>
+    <lastmod>2025-07-29T18:48:30.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kourtney-burger.github.io/Test-Quarto-Outputs/NOAA-quarto-book-main/content/adding-refs.html</loc>
+    <lastmod>2025-07-29T18:48:30.965Z</lastmod>
   </url>
 </urlset>
