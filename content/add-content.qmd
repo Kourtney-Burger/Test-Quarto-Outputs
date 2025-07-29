@@ -1,5 +1,8 @@
 ---
 title: Customize
+format: 
+  html: default
+  pdf: default
 ---
 
 ## Edit and add your pages
