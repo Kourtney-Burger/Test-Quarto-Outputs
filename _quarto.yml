@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  title: "Test Quarto Outputs" 
+  site-url: "https://kourtney-burger.github.io/Test-Quarto-Outputs/" 
+  repo-url: "https://github.com/Kourtney-Burger/Test-Quarto-Outputs"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
