@@ -1,1 +1,1 @@
-Sitemap: https://nmfs-opensci.github.io/NOAA-quarto-simple/sitemap.xml
+Sitemap: https://kourtney-burger.github.io/Test-Quarto-Outputs/sitemap.xml
